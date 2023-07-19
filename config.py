@@ -15,8 +15,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Telegram Link : https://t.me/PYRO_BOTZ 
-Repo Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT
+Telegram Link : https://t.me/Mafia_king48
+Repo Link : https://t.me/Mafia_king48
 License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
 """
 
@@ -58,7 +58,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Mafialove_1811 💞</b>"""
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Mafia_king48>𝐊𝐢𝐧𝐠👑</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a https://t.me/Mafialove_1811>𝐌𝐚𝐟𝐢𝐚</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Mafialove_1811>𝐌𝐚𝐟𝐢𝐚</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -76,13 +76,13 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=href=https://t.me/Mafia_king48>𝐌𝐚𝐟𝐢𝐚 𝐊𝐢𝐧𝐠</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=href="https://t.me/Mafia_king48">𝐌𝐚𝐟𝐢𝐚 𝐊𝐢𝐧𝐠</a>
 """
 
 #⚠️   Cʀᴇᴅɪᴛꜱ @Mafia_king48
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=href=https://t.me/Mafia_king48>𝐌𝐚𝐟𝐢𝐚 𝐊𝐢𝐧𝐠</a>
-• ❣️ <a href=https://github.com/lntechnical2>𝐌𝐚𝐟𝐢𝐚❤️</a>
+• ❣️ <a href=https://t.me/Mafialove_1811>𝐌𝐚𝐟𝐢𝐚❤️</a>
 • ❣️ <a href=https://t.me/Mafia_king48>𝐌𝐚𝐟𝐢𝐚 𝐊𝐢𝐧𝐠</a> """
 
     PROGRESS_BAR = """<b>\n
